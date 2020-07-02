@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1584627374 source:d:\tubesstd\tubesgroup4\document.cpp
+	"Document.h"
+	<iostream>
+
+1584626939 d:\tubesstd\tubesgroup4\document.h
+	<iostream>
+
+1584627141 source:d:\tubesstd\tubesgroup4\tag.cpp
+	"Tag.h"
+
+1584626938 d:\tubesstd\tubesgroup4\tag.h
+	<iostream>
+
+1584625448 source:d:\tubesstd\tubesgroup4\relation.cpp
+	"Relation.h"
+
+1584625671 d:\tubesstd\tubesgroup4\relation.h
+	"Relation.h"
+	"Document.h"
+	"Tag.h"
+	<iostream>
+
+1584627126 source:d:\tubesstd\tubesgroup4\main.cpp
+	<iostream>
+	"Tag.h"
+	"Document.h"
+	"Relation.h"
+
+1584789393 source:d:\tubesstd2\tubesgroup4\relation.cpp
+	"Relation.h"
+
+1584789348 d:\tubesstd2\tubesgroup4\relation.h
+	"Document.h"
+	"Tag.h"
+	<iostream>
+
+1584725373 d:\tubesstd2\tubesgroup4\document.h
+	<iostream>
+
+1584725357 d:\tubesstd2\tubesgroup4\tag.h
+	<iostream>
+
+1584727341 source:d:\tubesstd2\tubesgroup4\document.cpp
+	"Document.h"
+	<iostream>
+
+1584789425 source:d:\tubesstd2\tubesgroup4\main.cpp
+	<iostream>
+	"Tag.h"
+	"Document.h"
+	"Relation.h"
+
+1584728790 source:d:\tubesstd2\tubesgroup4\tag.cpp
+	"Tag.h"
+	"Relation.h"
+
